@@ -30,7 +30,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zox35Ob_Eeao8t--nnbXlA"/>
       </children>
       <element xmi:type="uml:Class" href="archimate.test.model.uml#_znwkMOb_Eeao8t--nnbXlA"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zojOYeb_Eeao8t--nnbXlA" x="81" y="120"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zojOYeb_Eeao8t--nnbXlA" x="373" y="321"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_15NCYOb_Eeao8t--nnbXlA" type="Class_Shape">
       <children xmi:type="notation:DecorationNode" xmi:id="_15NpcOb_Eeao8t--nnbXlA" type="Class_NameLabel"/>
@@ -58,6 +58,15 @@
       <element xmi:type="uml:Class" href="archimate.test.model.uml#_14-Y4Ob_Eeao8t--nnbXlA"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_15NCYeb_Eeao8t--nnbXlA" x="380" y="130"/>
     </children>
+    <children xmi:type="notation:Shape" xmi:id="_GAW2sOcBEeac8uC3CeG5ZQ" type="Package_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_GAcWQOcBEeac8uC3CeG5ZQ" type="Package_NameLabel"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_GAc9UOcBEeac8uC3CeG5ZQ" type="Package_PackagedElementCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_GAc9UecBEeac8uC3CeG5ZQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GAc9UucBEeac8uC3CeG5ZQ"/>
+      </children>
+      <element xmi:type="uml:Package" href="archimate.test.model.uml#_DKy-0OcBEeac8uC3CeG5ZQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GAW2secBEeac8uC3CeG5ZQ" x="146" y="253"/>
+    </children>
     <styles xmi:type="notation:StringValueStyle" xmi:id="_utnldOb_Eeao8t--nnbXlA" name="diagram_compatibility_version" stringValue="1.2.0"/>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_utoMgOb_Eeao8t--nnbXlA"/>
     <styles xmi:type="style:PapyrusViewStyle" xmi:id="_utoMgeb_Eeao8t--nnbXlA">
@@ -77,8 +86,8 @@
       <styles xmi:type="notation:FontStyle" xmi:id="_6nJYMeb_Eeao8t--nnbXlA"/>
       <element xmi:type="uml:Dependency" href="archimate.test.model.uml#_6m3rYOb_Eeao8t--nnbXlA"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6nJYMub_Eeao8t--nnbXlA" points="[292, 197, -643984, -643984]$[382, 191, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6o-kMOb_Eeao8t--nnbXlA" id="(1.0,0.6296296296296297)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6o-kMeb_Eeao8t--nnbXlA" id="(0.0,0.5833333333333334)"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6o-kMOb_Eeao8t--nnbXlA" id="(0.6851851851851852,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6o-kMeb_Eeao8t--nnbXlA" id="(0.2009132420091324,1.0)"/>
     </edges>
   </notation:Diagram>
   <notation:Diagram xmi:id="_utoMgub_Eeao8t--nnbXlA" type="PapyrusUMLClassDiagram" name="Business" measurementUnit="Pixel">

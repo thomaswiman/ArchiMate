@@ -28,4 +28,5 @@
       <body>In this diagram, implementation and migration related elements shall be placed.</body>
     </ownedComment>
   </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_DKy-0OcBEeac8uC3CeG5ZQ" name="MyNewLayer"/>
 </uml:Model>
