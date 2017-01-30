@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ArchiMate="http:///schemas/ArchiMate/_4_nr8N5HEeaXp6aIuR9fmg/115" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http:///schemas/ArchiMate/_4_nr8N5HEeaXp6aIuR9fmg/115 pathmap://ARCHIMATE_PROFILES/ArchiMate.profile.uml#_4_uZoN5HEeaXp6aIuR9fmg">
+  <uml:Model xmi:id="_utdNYOb_Eeao8t--nnbXlA" name="ArchiMate Test Model For GitHub">
+    <packagedElement xmi:type="uml:Package" xmi:id="_utdNYeb_Eeao8t--nnbXlA" name="Motivation">
+      <ownedComment xmi:type="uml:Comment" xmi:id="_utdNYub_Eeao8t--nnbXlA">
+        <body>In this diagram, motivation related elements shall be placed.</body>
+      </ownedComment>
+      <packagedElement xmi:type="uml:Class" xmi:id="_znwkMOb_Eeao8t--nnbXlA" name="Prepare for OpenSource contribution"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_14-Y4Ob_Eeao8t--nnbXlA" name="Understand forking and collaboration"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_6m3rYOb_Eeao8t--nnbXlA" name="Influence1" client="_znwkMOb_Eeao8t--nnbXlA" supplier="_14-Y4Ob_Eeao8t--nnbXlA"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_utdNY-b_Eeao8t--nnbXlA" name="Business">
+      <ownedComment xmi:type="uml:Comment" xmi:id="_utdNZOb_Eeao8t--nnbXlA">
+        <body>In this diagram, business related elements shall be placed.</body>
+      </ownedComment>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_utdNZeb_Eeao8t--nnbXlA" name="Application">
+      <ownedComment xmi:type="uml:Comment" xmi:id="_utdNZub_Eeao8t--nnbXlA">
+        <body>In this diagram, application (software) related elements shall be placed.</body>
+      </ownedComment>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_utdNZ-b_Eeao8t--nnbXlA" name="Technology">
+      <ownedComment xmi:type="uml:Comment" xmi:id="_utdNaOb_Eeao8t--nnbXlA">
+        <body>In this diagram, technology related elements shall be placed.</body>
+      </ownedComment>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_utdNaeb_Eeao8t--nnbXlA" name="Implementation and Migration">
+      <ownedComment xmi:type="uml:Comment" xmi:id="_utdNaub_Eeao8t--nnbXlA">
+        <body>In this diagram, implementation and migration related elements shall be placed.</body>
+      </ownedComment>
+    </packagedElement>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_utdNa-b_Eeao8t--nnbXlA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_w7B4MOb_Eeao8t--nnbXlA" source="PapyrusVersion">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_w7B4Meb_Eeao8t--nnbXlA" key="Version" value="0.0.41"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_w7B4Mub_Eeao8t--nnbXlA" key="Comment" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_w7B4M-b_Eeao8t--nnbXlA" key="Copyright" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_w7B4NOb_Eeao8t--nnbXlA" key="Date" value="2017-01-19"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_w7B4Neb_Eeao8t--nnbXlA" key="Author" value=""/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_utdNcub_Eeao8t--nnbXlA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="pathmap://ARCHIMATE_PROFILES/ArchiMate.profile.uml#_4_uZoN5HEeaXp6aIuR9fmg"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="pathmap://ARCHIMATE_PROFILES/ArchiMate.profile.uml#_XGdxQHbsEeSz4u81gQL_Gw"/>
+    </profileApplication>
+  </uml:Model>
+  <ArchiMate:MotivationExtension xmi:id="_utdNc-b_Eeao8t--nnbXlA" base_Package="_utdNYeb_Eeao8t--nnbXlA"/>
+  <ArchiMate:BusinessLayer xmi:id="_utdNdOb_Eeao8t--nnbXlA" base_Package="_utdNY-b_Eeao8t--nnbXlA"/>
+  <ArchiMate:ApplicationLayer xmi:id="_utdNdeb_Eeao8t--nnbXlA" base_Package="_utdNZeb_Eeao8t--nnbXlA"/>
+  <ArchiMate:TechnologyLayer xmi:id="_utdNdub_Eeao8t--nnbXlA" base_Package="_utdNZ-b_Eeao8t--nnbXlA"/>
+  <ArchiMate:ImplementationAndMigrationExtension xmi:id="_utdNd-b_Eeao8t--nnbXlA" base_Package="_utdNaeb_Eeao8t--nnbXlA"/>
+  <ArchiMate:Driver xmi:id="_zoDfIOb_Eeao8t--nnbXlA" base_Class="_znwkMOb_Eeao8t--nnbXlA"/>
+  <ArchiMate:Goal xmi:id="_15D4cOb_Eeao8t--nnbXlA" base_Class="_14-Y4Ob_Eeao8t--nnbXlA"/>
+  <ArchiMate:Influence xmi:id="_6m9K8Ob_Eeao8t--nnbXlA" base_Dependency="_6m3rYOb_Eeao8t--nnbXlA"/>
+</xmi:XMI>
