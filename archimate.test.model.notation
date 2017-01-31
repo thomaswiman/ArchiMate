@@ -56,7 +56,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_15OQjub_Eeao8t--nnbXlA"/>
       </children>
       <element xmi:type="uml:Class" href="archimate.test.model.uml#_14-Y4Ob_Eeao8t--nnbXlA"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_15NCYeb_Eeao8t--nnbXlA" x="380" y="130"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_15NCYeb_Eeao8t--nnbXlA" x="559" y="124"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_GAW2sOcBEeac8uC3CeG5ZQ" type="Package_Shape">
       <children xmi:type="notation:DecorationNode" xmi:id="_GAcWQOcBEeac8uC3CeG5ZQ" type="Package_NameLabel"/>
@@ -66,6 +66,32 @@
       </children>
       <element xmi:type="uml:Package" href="archimate.test.model.uml#_DKy-0OcBEeac8uC3CeG5ZQ"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GAW2secBEeac8uC3CeG5ZQ" x="146" y="253"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_YE0jcOeKEeac8uC3CeG5ZQ" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_YE1KgOeKEeac8uC3CeG5ZQ" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_YE1KgeeKEeac8uC3CeG5ZQ" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_YE1KgueKEeac8uC3CeG5ZQ" y="5"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_YE1xkOeKEeac8uC3CeG5ZQ" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_YE1xkeeKEeac8uC3CeG5ZQ"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_YE1xkueKEeac8uC3CeG5ZQ"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_YE1xk-eKEeac8uC3CeG5ZQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YE1xlOeKEeac8uC3CeG5ZQ"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_YE2YoOeKEeac8uC3CeG5ZQ" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_YE2YoeeKEeac8uC3CeG5ZQ"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_YE2YoueKEeac8uC3CeG5ZQ"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_YE2Yo-eKEeac8uC3CeG5ZQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YE2YpOeKEeac8uC3CeG5ZQ"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_YE2YpeeKEeac8uC3CeG5ZQ" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_YE2YpueKEeac8uC3CeG5ZQ"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_YE2Yp-eKEeac8uC3CeG5ZQ"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_YE2YqOeKEeac8uC3CeG5ZQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YE2YqeeKEeac8uC3CeG5ZQ"/>
+      </children>
+      <element xmi:type="uml:Class" href="archimate.test.model.uml#_YERJ0OeKEeac8uC3CeG5ZQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YE0jceeKEeac8uC3CeG5ZQ" x="230" y="141"/>
     </children>
     <styles xmi:type="notation:StringValueStyle" xmi:id="_utnldOb_Eeao8t--nnbXlA" name="diagram_compatibility_version" stringValue="1.2.0"/>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_utoMgOb_Eeao8t--nnbXlA"/>

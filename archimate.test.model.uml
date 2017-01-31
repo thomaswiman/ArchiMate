@@ -7,6 +7,7 @@
     <packagedElement xmi:type="uml:Class" xmi:id="_znwkMOb_Eeao8t--nnbXlA" name="Prepare for OpenSource contribution"/>
     <packagedElement xmi:type="uml:Class" xmi:id="_14-Y4Ob_Eeao8t--nnbXlA" name="Understand forking and collaboration"/>
     <packagedElement xmi:type="uml:Dependency" xmi:id="_6m3rYOb_Eeao8t--nnbXlA" name="Influence1" client="_znwkMOb_Eeao8t--nnbXlA" supplier="_14-Y4Ob_Eeao8t--nnbXlA"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_YERJ0OeKEeac8uC3CeG5ZQ" name="Ny klass tillagd"/>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_utdNY-b_Eeao8t--nnbXlA" name="Business">
     <ownedComment xmi:type="uml:Comment" xmi:id="_utdNZOb_Eeao8t--nnbXlA">
